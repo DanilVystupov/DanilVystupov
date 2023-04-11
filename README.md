@@ -23,7 +23,10 @@
 
 
 </div>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Я - Frontend-разработчик, ориентированный на результат
+
+<div>
+Я - Frontend-разработчик, ориентированный на результат<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+</div>
 
 - 🌱 Понимаю важность создания читаемого и поддерживаемого кода
 
