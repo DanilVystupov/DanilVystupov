@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--
-**DanilVystupov/danilvystupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **DanilVystupov/danilvystupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<!-- Header -->
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="200"/>
+</div>
+
+## Я - Frontend-разработчик, ориентированный на результат. Понимаю важность создания читаемого и поддерживаемого кода, а также постоянно стремлюсь улучшать свои навыки и изучать новые технологии в быстро меняющейся индустрии.
+<!-- About me
+
+Languages and Tools 
+
+Follow me -->
+
