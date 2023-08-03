@@ -61,7 +61,4 @@
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilvystupov&theme=dark&background=000000&locale=ru&border_radius=5)](https://git.io/danilvystupov)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilvystupov&layout=compact&theme=vision-friendly-dark&border_radius=5)](https://github.com/danilvystupov/github-readme-stats)
